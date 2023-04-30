@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df1950a7.css",
+    "main.js": "/static/js/main.926304d4.js",
+    "static/media/headshot-t.png": "/static/media/headshot-t.b569f8a555b6c8b08969.png",
+    "static/media/resume.pdf": "/static/media/resume.382533b5d9ba14fa5f81.pdf",
+    "static/media/project1.png": "/static/media/project1.44f5af4954ecbf0d73f3.png",
+    "static/media/dynapuff-all-600-normal.woff": "/static/media/dynapuff-all-600-normal.a16288987d88eb3dd979.woff",
+    "static/media/project2.png": "/static/media/project2.050f83cc6360df2c14bf.png",
+    "static/media/dynapuff-latin-600-normal.woff2": "/static/media/dynapuff-latin-600-normal.a4b32761d23f96b4ba15.woff2",
+    "static/media/dynapuff-latin-ext-600-normal.woff2": "/static/media/dynapuff-latin-ext-600-normal.9bd095c1062ae166a98f.woff2",
+    "static/media/project3.png": "/static/media/project3.0ca2f4fb8ad843677d94.png",
+    "static/media/dynapuff-cyrillic-ext-600-normal.woff2": "/static/media/dynapuff-cyrillic-ext-600-normal.4ddfb896f1e78faa80e2.woff2",
+    "index.html": "/index.html",
+    "main.df1950a7.css.map": "/static/css/main.df1950a7.css.map",
+    "main.926304d4.js.map": "/static/js/main.926304d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1950a7.css",
+    "static/js/main.926304d4.js"
+  ]
+}
